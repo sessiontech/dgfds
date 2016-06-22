@@ -11,19 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/sessiontech/dgfds/raw/master/IOS/student/DGFDSStudent.ipa</string>
+					<string>http://183.62.251.19:8081/DGFDS_WEB/download/DGFDSStudent.ipa</string>
+					<key>New item</key>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOS/student/login_xy_logo_57X57.png</string>
+					<string>http://183.62.251.19:8081/DGFDS_WEB/download/login_xy_logo_57X57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOS/student/login_xy_logo_512X512.png</string>
+					<string>http://183.62.251.19:8081/DGFDS_WEB/download/login_xy_logo_512X512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +37,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>DGFDSStudent</string>
+				<string>快捷驾培学员版</string>
 			</dict>
 		</dict>
 	</array>
