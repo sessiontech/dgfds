@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://183.62.251.19:8081/DGFDS_WEB/download/DGFDSStudent.ipa</string>
+					<string>http://obdjp.chelulu.cn/download/DGFDSStudent.ipa</string>
 					<key>New item</key>
 					<string></string>
 				</dict>
@@ -19,21 +19,21 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://183.62.251.19:8081/DGFDS_WEB/download/login_xy_logo_57X57.png</string>
+					<string>http://obdjp.chelulu.cn/download/login_xy_logo_57X57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://183.62.251.19:8081/DGFDS_WEB/download/login_xy_logo_512X512.png</string>
+					<string>http://obdjp.chelulu.cn/download/login_xy_logo_512X512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.com.cellcom.CZT</string>
+				<string>com.session.DGFDSStudent2</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
