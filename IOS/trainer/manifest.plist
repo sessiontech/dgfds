@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://obdjp.chelulu.cn/download/login_jl_logo_57X57.png</string>
+					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOS/trainer/login_jl_logo_57X57..png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://obdjp.chelulu.cn/download/login_jl_logo_512X512.png</string>
+					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOS/trainer/login_jl_logo_512X512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
