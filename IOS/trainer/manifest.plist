@@ -17,13 +17,15 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOS/trainer/login_jl_logo_57X57.png</string>
+					<!-- <string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOS/trainer/login_jl_logo_57X57.png</string>-->
+					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOSDemo/trainer/login_jl_logo_57X57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOS/trainer/login_jl_logo_512X512.png</string>
+					<!-- <string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOS/trainer/login_jl_logo_512X512.png</string>-->
+					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOSDemo/trainer/login_jl_logo_512X512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +37,8 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>啪啪学车教练版</string>
+				<!-- <string>啪啪学车教练版</string> -->
+				<string>车路路学车教练版</string>
 			</dict>
 		</dict>
 	</array>
