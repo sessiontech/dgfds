@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://14.29.5.45/download/DGFDSTrainer.ipa</string>
+					<string>http://121.33.72.36:8083/CHELULUXUECHE_WEB/download/DGFDSTrainer.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOSDemo/trainer/login_jl_logo_57X57.png</string>
+					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOSYS/trainer/login_jl_logo_57X57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOSDemo/trainer/login_jl_logo_512X512.png</string>
+					<string>https://raw.githubusercontent.com/sessiontech/dgfds/master/IOSYS/trainer/login_jl_logo_512X512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
